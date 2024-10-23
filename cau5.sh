@@ -1,5 +1,7 @@
 #!/bin/bash
 
+=======
+>>>>>>> user2
 for i in {1..5}
 do
     touch user2_$i.txt
